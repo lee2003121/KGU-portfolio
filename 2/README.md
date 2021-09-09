@@ -57,6 +57,8 @@ q를 눌러 드론을 활성화 시킬 수 있다.
 ![cctv와 npc](https://user-images.githubusercontent.com/60810332/132772892-77b09d3c-96c6-473f-ae6e-b59299c34bf8.png)
 
 npc와 cctv의 경우 시야내에 감지되면 게임이 종료된다.
+npc-몸4대 혹은 머리 1대
+cctv-1대
 
 두개다 총을 쏘면 꺼진다.
 
