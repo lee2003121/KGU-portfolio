@@ -11,11 +11,12 @@
 
 # 게임 플레이 영상
 
+
+[유튜브 링크-Task Kill](https://youtu.be/qKm6IbQLhNk)
+
 admin전용 실행파일이라 위에 power가 줄어들지 않는다.
 
 power-남은시간
-
-[유튜브 링크-Task Kill](https://youtu.be/qKm6IbQLhNk)
 
 # 실행파일
 
