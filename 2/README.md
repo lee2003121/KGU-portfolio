@@ -1,3 +1,4 @@
+
 # 실적번호-2번
 
 # 실적명
@@ -24,8 +25,11 @@ c드라이브에 저장했던 소스코드가 초기화때 깜빡하고 옮기�
 
 ## 아이템
 
-### 드론
+### 엘리베이터
+엘리베이터를 타고 다음스테이지로 넘어갈 수 있다.
 
+### 드론
+![드론시점](https://user-images.githubusercontent.com/60810332/132773006-a5d7b59a-f662-4657-b510-e93b8ec4006e.png)
 q를 눌러 드론을 활성화 시킬 수 있다.
 
 스페이스바로 점프할 수 있다.
@@ -36,9 +40,12 @@ q를 눌러 드론을 활성화 시킬 수 있다.
 
 ### 키카드
 
+![키카드](https://user-images.githubusercontent.com/60810332/132772917-23d663c4-3697-4805-a0c0-1366dd285d23.png)
+
 키카드를 활용하여 스테이지를 클리어해야 하는 맵은 해당 스테이지의 npc중 한명에게 키카드가 있으니 npc를 죽이고 획득해야한다.
 
 ### 여분의 탄
+![여분의탄](https://user-images.githubusercontent.com/60810332/132772942-922d6596-ae03-402f-9cf8-7fc3a1a17345.png)
 
 키카드와 마찬가지로 npc를 죽이면 나온다. 하지만 모든 npc에서 확률적으로 나온다.
 
@@ -46,19 +53,25 @@ q를 눌러 드론을 활성화 시킬 수 있다.
 
 ### cctv와 npc 
 
+
+![cctv와 npc](https://user-images.githubusercontent.com/60810332/132772892-77b09d3c-96c6-473f-ae6e-b59299c34bf8.png)
+
 npc와 cctv의 경우 시야내에 감지되면 게임이 종료된다.
 
 두개다 총을 쏘면 꺼진다.
 
 ### 화재경보기
 
+![화제 경보기](https://user-images.githubusercontent.com/60810332/132772913-1eeb058e-19ce-42d4-b4f5-3cd7923c6f2b.png)
 화재경보기가 있는 스테이지에서는 총을 쏘면 화재경보기가 울리고 게임이 끝난다.
 
 ### 동작 감지 센서
+![동작감지 센서](https://user-images.githubusercontent.com/60810332/132772972-7a400a43-3bdb-4952-baec-23ffc6853549.png)
 
 주기적으로 깜빡이며 불이 들어올때 지나가면 시스템에 걸려 게임이 종료된다
 
 ### 방탄 동작 감지 센서
+![부숴지지 않는 cctv](https://user-images.githubusercontent.com/60810332/132772975-70114473-40fa-4c7b-bb38-5cef294e8343.png)
 
 항시 켜져있으며 원의 모양을 그리며 동작을 감지한다.
 
